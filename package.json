@@ -5,8 +5,7 @@
   "author": "@saddysk",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && npm run postbuild",
-    "postbuild": "next-sitemap",
+    "build": "next build",
     "start": "next start",
     "validate": "run-s format lint typecheck",
     "typecheck": "tsc --noEmit",
@@ -24,7 +23,6 @@
     "clsx": "^2.1.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "next": "14.0.4",
-    "next-sitemap": "^4.2.2",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^4.12.0",
