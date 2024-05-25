@@ -67,7 +67,7 @@ const FAQs = () => {
               <AccordionContent
                 className={cn(
                   openAccordion === item.value ? "max-h-screen" : "max-h-0",
-                  "text-[#808080] text-base  font-normal leading-8 ml-11 transition-max-height duration-300 ease-in-out"
+                  "text-[#808080] text-base  font-normal leading-8 ml-11 transition-max-height duration-300 ease-in-out",
                 )}
               >
                 {item.answer}

@@ -20,7 +20,7 @@ function Button({ children, fill, size, className }: ButtonProps) {
           "px-2.5 h-8": size === "sm",
           "px-6 h-11": size == "md",
           "md:h-[52px] md:px-8 h-10 px-6 justify-center": size == "lg",
-        }
+        },
       )}
     >
       {children}

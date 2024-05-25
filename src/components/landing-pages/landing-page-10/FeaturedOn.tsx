@@ -24,7 +24,7 @@ const FeatureOn = () => {
             key={index}
             className={cn(
               index !== logos.length - 1 && "lg:border-r",
-              "border-[#132524] lg:px-14"
+              "border-[#132524] lg:px-14",
             )}
           >
             <Image

@@ -18,7 +18,7 @@ const ButtonCta: FC<ButtonCtaProps> = async ({ className }) => {
       className={cn(
         buttonVariants({ variant: "default" }),
         "rounded-lg border border-[#51DCA3] green-btn-gradient",
-        className
+        className,
       )}
     >
       Login

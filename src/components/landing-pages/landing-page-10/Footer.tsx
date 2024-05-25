@@ -59,7 +59,7 @@ const Footer = () => {
               key={index}
               className={cn(
                 item.name === "Home" ? "text-white" : "text-[#A5ABB6]",
-                "text-base font-normal"
+                "text-base font-normal",
               )}
             >
               {item.name}

@@ -27,7 +27,7 @@ export default async function Navbar() {
     <div className="w-full text-white bg-[#031614]">
       <div
         className={cn(
-          "max-w-6xl mx-auto flex justify-between items-center p-4"
+          "max-w-6xl mx-auto flex justify-between items-center p-4",
         )}
       >
         <Link href="https://www.builderkit.ai">

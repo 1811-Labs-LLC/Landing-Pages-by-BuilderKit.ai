@@ -75,7 +75,7 @@ const Pricing = () => {
             key={index}
             className={cn(
               plan.isHiglighted && "border-4 border-[#26AB75]",
-              "w-full h-fit bg-white"
+              "w-full h-fit bg-white",
             )}
           >
             <CardContent className="m-8 p-0 text-[#050316]">
@@ -102,7 +102,7 @@ const Pricing = () => {
                   "rounded-full w-full border border-[#e7e7e7] py-6 font-bold mt-6 mb-12 gap-2 shadow-none",
                   plan.isHiglighted
                     ? "text-white bg-[#26AB75]"
-                    : "text-[#2AA875] bg-[#DFFFF2]"
+                    : "text-[#2AA875] bg-[#DFFFF2]",
                 )}
               >
                 <FaFire className="size-5" />
