@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Landing Pages by BuilderKit.ai is a Next.js based boilerplate that comes with 10 different landing pages designed to accelerate the development of your saas applications.
+Landing Pages by BuilderKit.ai is a Next.js based boilerplate that comes with 10 different landing pages designed to accelerate the development of your saas applications. Get all the 10 Landing Pages with Editable Figma Files [here](https://1811labs.gumroad.com/l/saaslandingpagesbybuilderkitai).
 
 <a href="https://builderkit.ai" target="_blank" rel="noopener">
   <picture>
@@ -14,13 +14,13 @@ Landing Pages by BuilderKit.ai is a Next.js based boilerplate that comes with 10
 
 ## Features
 
-- **10 Unique Landing Pages**: Ready-to-use templates that cater to different needs and aesthetics.
-- **Modular Components**: Easily customizable components to fit your specific requirements.
-- **Tailwind CSS**: Styled using Tailwind CSS for efficient and responsive design.
-- **Next.js Framework**: Built with Next.js for server-side rendering and static site generation.
-- **Optimized Performance**: Includes advanced features like lazy loading and optimized images.
-- **SEO Friendly**: Pre-configured with `next-sitemap` for better SEO.
-- **Reusable UI Components**: Common UI components like buttons, cards, and accordions.
+- 📜 **10 Unique Landing Pages**: Ready-to-use templates that cater to different needs and aesthetics.
+- 🧮 **Next.js Framework**: Built with Next.js for server-side rendering and static site generation.
+- ⏹️ **Modular Components**: Easily customizable components to fit your specific requirements.
+- 🎨 **Tailwind CSS**: Styled using Tailwind CSS for efficient and responsive design.
+- ⚡️ **Optimized Performance**: Includes advanced features like lazy loading and optimized images.
+- 🔄 **Reusable UI Components**: Common UI components like buttons, cards, and accordions.
+- 📃 **SEO Friendly**: Pre-configured with `next-sitemap` for better SEO.
 
 ## Quickstart Guide
 
